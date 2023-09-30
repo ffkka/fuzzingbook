@@ -1,5 +1,5 @@
 # fuzzingbook
-[The Fuzzing Book](https://www.fuzzingbook.org/):一本用代码写出来的Fuzzing书籍： 
+[The Fuzzing Book](https://www.fuzzingbook.org/):一本用代码写出来的Fuzzing书籍
 - 以Python代码为例，从易到难，整个学习过程循序渐进，讲解Fuzzing技术的方方面面，将理论融合在实际的操作中，学起来更有趣味性；
 - 对于理解各种概念、技术原理比较有帮助，包括覆盖引导、变异策略、种子调度算法、语法Fuzzing、语义Fuzzing，符号Fuzzing等等；
 
